@@ -35,6 +35,16 @@
     "versionFirst": "5.3.5",
     "siteFonts": [],
     "imageResize": true,
+    "publishChangesOnly": false,
+    "favicon": "@PROJECT_PATH@/assets/images/24031-200-128x128.png",
+    "mbrsiteDomain": "7hfxzzqb2l",
+    "canonical-url": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
     "uniqCompNum": 7,
     "versionPublish": "5.3.5"
   },
@@ -42,7 +52,7 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Home",
+        "title": "Aidre Cabrera",
         "meta_descr": "",
         "header_custom": "",
         "footer_custom": "",
